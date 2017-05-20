@@ -1,0 +1,37 @@
+
+header {
+2	  padding: 0px 0px 0px 0px;
+}
+4	}
+
+
+h3 {
+	color: white;
+    background-color: teal;
+    text-align: center;
+}
+
+p {
+	color: green;
+}
+
+.mod1{
+	color: white;
+    background-color: green;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 10px 0px 10px 0px;
+}
+
+div {
+	color: #7f7f7f;
+	font-size: 20px;
+	font-family: sans-serif;   
+}
+
+body {
+	/*background-color: lightgoldenrodyellow;*/
+    background-image: url("Background1.gif");
+    background-size: 100%;
+
+}
